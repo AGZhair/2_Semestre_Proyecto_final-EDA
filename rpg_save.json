@@ -1,0 +1,46 @@
+{
+    "gold": 310,
+    "materials": 106,
+    "active_character": "Hechicera",
+    "characters": {
+        "Samurai": {
+            "level": 4,
+            "exp": 360,
+            "equipped_weapon": "katana_carmesi",
+            "unlocked_weapons": [
+                "katana_aurora",
+                "katana_carmesi"
+            ],
+            "weapon_levels": {
+                "katana_aurora": 5,
+                "katana_carmesi": 1
+            }
+        },
+        "Caballero": {
+            "level": 1,
+            "exp": 240,
+            "equipped_weapon": "espada_guardian",
+            "unlocked_weapons": [
+                "espada_guardian",
+                "espada_bastion"
+            ],
+            "weapon_levels": {
+                "espada_guardian": 1,
+                "espada_bastion": 1
+            }
+        },
+        "Hechicera": {
+            "level": 9,
+            "exp": 280,
+            "equipped_weapon": "baston_arcano",
+            "unlocked_weapons": [
+                "baston_arcano",
+                "baston_estelar"
+            ],
+            "weapon_levels": {
+                "baston_arcano": 13,
+                "baston_estelar": 1
+            }
+        }
+    }
+}
